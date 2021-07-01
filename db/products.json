@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5fb7abcca29f2733ace75179"},"title":"Product 1","imageUrl":"images\\Fri Nov 20 20201605873535240-audi-rs4_2000_1280x960_wallpaper_02.jpg","price":9876987,"description":"This is Product 1","userId":"5fb4ffdc59802f4ec09c4d6d","__v":0}
+{"_id":{"$oid":"5fb7abe5a29f2733ace7517a"},"title":"Product 2","imageUrl":"images\\Fri Nov 20 20201605872613661-audi-s6_1999_1280x960_wallpaper_02.jpg","price":876458765,"description":"This is Product 2","userId":"5fb4ffdc59802f4ec09c4d6d","__v":0}
+{"_id":{"$oid":"5fb7b11ba25e4d4354257f05"},"title":"Product 3","imageUrl":"images\\Fri Nov 20 20201605873985967-bgpic17.jpg","price":876587,"description":"kjlhdsbflkjsndbfljk","userId":"5fb4fef359802f4ec09c4d6c","__v":0}
+{"_id":{"$oid":"5fb7b18f02af7c474c0be42a"},"title":"Product 4","imageUrl":"images\\Fri Nov 20 20201605874063792-arizona_waterfalls-t1.jpg","price":8765,"description":"This is Product 4","userId":"5fb4fef359802f4ec09c4d6c","__v":0}
